@@ -1,8 +1,11 @@
 #include <iostream>
+#include<string>
 using namespace std;
 
 int main() {
-    cout << "Hello, World! hello every~~~  " << endl;
 
-    return 0;
+    auto name = " hello world ";
+    string helloWorld{"jkjkjkj"};
+
+    cout<< helloWorld << endl;
 }
